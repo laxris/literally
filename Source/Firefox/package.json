@@ -1,11 +1,11 @@
 {
-    "name": "literally",
-    "title": "Literally",
-    "id": "jid1-ehxJ28b33TOfHQ",
-    "description": "Replaces the word 'literally' with 'figuratively'. That's literally all it does.",
-    "author": "Mike Walker",
-    "homepage": "http://lazerwalker.com",
-    "contributors": "Lyndsey Moulds (https://github.com/apophenia/)",
+    "name": "wizardry",
+    "title": "Wizardry",
+    "id": "jid1-wizardb33TOfHQ",
+    "description": "Replaces the various combinations of 'growth hacker' with 'growth wizard'. That's all the wizardry it does.",
+    "author": "Chris Hammerschmidt",
+    "homepage": "http://chrishammerschmidt.de",
+    "contributors": "Mike Walker (http://lazerwalker.com), Lyndsey Moulds (https://github.com/apophenia/)",
     "license": "WTFPL",
     "version": "1.0"
 }

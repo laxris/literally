@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Literally",
+	"name": "Wizardry",
 	"version": "1.0",
-	"description": "Replaces the word 'literally' with 'figuratively'. That's literally all it does.",
+	"description": "Replaces the word 'hacker' (and variants) with 'wizard'. That's all the magic it does.",
 	"content_scripts":
 	[
 		{
